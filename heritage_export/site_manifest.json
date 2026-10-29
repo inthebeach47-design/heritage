@@ -1,0 +1,2976 @@
+{
+  "source": "https://heritagemabati.co.ke/",
+  "export_dir": "heritage_export",
+  "page_count": 47,
+  "asset_count": 417,
+  "pages": [
+    "https://heritagemabati.co.ke/",
+    "https://heritagemabati.co.ke/blogs/news",
+    "https://heritagemabati.co.ke/blogs/news/box-profile-vs-bricktile-vs-dekatile-mabati-in-kenya-2026-which-one-is-best",
+    "https://heritagemabati.co.ke/blogs/news/which-mabati-gauge-is-right-for-your-roof-a-kenya-buyers-guide",
+    "https://heritagemabati.co.ke/blogs/news/why-heritage-mabati-mills-is-kenyas-best-roofing-choice",
+    "https://heritagemabati.co.ke/cart",
+    "https://heritagemabati.co.ke/collections/accessories",
+    "https://heritagemabati.co.ke/collections/all",
+    "https://heritagemabati.co.ke/collections/dekatile-stone-coated-roofing",
+    "https://heritagemabati.co.ke/collections/gutters-and-flashings",
+    "https://heritagemabati.co.ke/collections/gutters-flashings",
+    "https://heritagemabati.co.ke/collections/it5-mabati",
+    "https://heritagemabati.co.ke/collections/lgs",
+    "https://heritagemabati.co.ke/collections/light-gauge-steel",
+    "https://heritagemabati.co.ke/collections/popular-roofing-products",
+    "https://heritagemabati.co.ke/collections/roofing-accessories",
+    "https://heritagemabati.co.ke/collections/roofing-mabati",
+    "https://heritagemabati.co.ke/collections/roofing-sheets",
+    "https://heritagemabati.co.ke/pages/about-heritage-mabati",
+    "https://heritagemabati.co.ke/pages/about-us",
+    "https://heritagemabati.co.ke/pages/contact",
+    "https://heritagemabati.co.ke/pages/contact-us",
+    "https://heritagemabati.co.ke/pages/data-sharing-opt-out",
+    "https://heritagemabati.co.ke/policies/privacy-policy",
+    "https://heritagemabati.co.ke/products/box-profile-mabati",
+    "https://heritagemabati.co.ke/products/box-profile-mabati?variant=52066568896814",
+    "https://heritagemabati.co.ke/products/bricktile",
+    "https://heritagemabati.co.ke/products/bricktile?variant=51103441813806",
+    "https://heritagemabati.co.ke/products/corrugated-roofing-sheet",
+    "https://heritagemabati.co.ke/products/corrugated-roofing-sheet?variant=51612987293998",
+    "https://heritagemabati.co.ke/products/dekatile-stone-coate",
+    "https://heritagemabati.co.ke/products/dekatile-stone-coate?variant=52066688270638",
+    "https://heritagemabati.co.ke/products/euro-tile-roofing-sheet",
+    "https://heritagemabati.co.ke/products/euro-tile-roofing-sheet?variant=51613071999278",
+    "https://heritagemabati.co.ke/products/gutters-and-flashings",
+    "https://heritagemabati.co.ke/products/gutters-and-flashings?variant=52220397879598",
+    "https://heritagemabati.co.ke/products/it5-roofing-mabati",
+    "https://heritagemabati.co.ke/products/it5-roofing-mabati?variant=52220399550766",
+    "https://heritagemabati.co.ke/products/light-gauge-steel-lgs",
+    "https://heritagemabati.co.ke/products/light-gauge-steel-lgs?variant=52087006560558",
+    "https://heritagemabati.co.ke/products/ridge-caps?variant=52397751599406",
+    "https://heritagemabati.co.ke/products/roman-tile-roofing-sheets",
+    "https://heritagemabati.co.ke/products/roman-tile-roofing-sheets?variant=51613049487662",
+    "https://heritagemabati.co.ke/products/roofing-accessories",
+    "https://heritagemabati.co.ke/products/roofing-accessories?variant=52220398567726",
+    "https://heritagemabati.co.ke/products/zee-tile",
+    "https://heritagemabati.co.ke/products/zee-tile?variant=51613065249070"
+  ],
+  "assets": [
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/overflow-list.css?v=16727044177065489451778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/overflow-list.v-16727044177065489451778759774.css",
+      "content_type": "text/css",
+      "bytes": 1132,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/base.css?v=142273100672429505471784631561",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/base.v-142273100672429505471784631561.css",
+      "content_type": "text/css",
+      "bytes": 121534,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/storefront/assets/storefront/horizon.specrules-5654ba2e.json",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/storefront/assets/storefront/horizon.specrules-5654ba2e.json",
+      "content_type": "application/speculationrules+json; charset=utf-8",
+      "bytes": 567,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/view-transitions.js?v=7106414069516106341778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/view-transitions.v-7106414069516106341778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 2392,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/header.js?v=36718054510661947891778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/header.v-36718054510661947891778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 4572,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/compiled_assets/styles.css?subset=ABQAAAAAAAAABgAAAAAAAAAQDwDkAACQqQrTBBA&v=8948164566574440361787059904",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/compiled_assets/styles.subset-ABQAAAAAAAAABgAAAAAAAAAQDwDkAACQqQrTBBA-v-894816456657444036178.css",
+      "content_type": "text/css",
+      "bytes": 148045,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/files/BrictileCGG.png?v=1767875717&width=832",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/files/BrictileCGG.v-1767875717-width-832.png",
+      "content_type": "image/webp",
+      "bytes": 34708,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/files/Box_Profile_CGM_2.png?v=1778832776&width=832",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/files/Box_Profile_CGM_2.v-1778832776-width-832.png",
+      "content_type": "image/webp",
+      "bytes": 127184,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/dialog.js?v=150888536568694194021778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/dialog.v-150888536568694194021778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 2816,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/files/Corrugatedd_BRG.png?v=1778832773&width=832",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/files/Corrugatedd_BRG.v-1778832773-width-832.png",
+      "content_type": "image/webp",
+      "bytes": 30520,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/019f800b-731b-7d22-8312-b95630c12413/disable-mouse-right-click-5/assets/protector.css",
+      "local_path": "heritage_export/assets/cdn.shopify.com/extensions/019f800b-731b-7d22-8312-b95630c12413/disable-mouse-right-click-5/assets/protector.css",
+      "content_type": "text/css",
+      "bytes": 4579,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.en.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.en.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 751,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/019ff5c9-0002-7f83-b561-a18f117f7d37/quick-link-7/assets/quicklink.css",
+      "local_path": "heritage_export/assets/cdn.shopify.com/extensions/019ff5c9-0002-7f83-b561-a18f117f7d37/quick-link-7/assets/quicklink.css",
+      "content_type": "text/css",
+      "bytes": 3643,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/storefront/standard-actions.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/storefront/standard-actions.js",
+      "content_type": "text/javascript",
+      "bytes": 11389,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/client.init-shop-cart-sync_CywFbEu-.en.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/client.init-shop-cart-sync_CywFbEu-.en.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 2029,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.window_CAbVMZox.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.window_CAbVMZox.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 1264,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.document_DMcRsBXN.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.document_DMcRsBXN.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 543,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.networkErrorMessages_Du380vAr.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.networkErrorMessages_Du380vAr.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 381,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.register_C2Sc-DlE.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.register_C2Sc-DlE.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 48307,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.init_DgfSYtmo.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.init_DgfSYtmo.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 656,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/fonts/barlow_condensed/barlowcondensed_n6.30a391fe19ded5366170913f031e653a88992edc.woff2",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/fonts/barlow_condensed/barlowcondensed_n6.30a391fe19ded5366170913f031e653a88992edc.woff2",
+      "content_type": "font/woff2",
+      "bytes": 23412,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/fonts/inter/inter_n4.b2a3f24c19b4de56e8871f609e73ca7f6d2e2bb9.woff2",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/fonts/inter/inter_n4.b2a3f24c19b4de56e8871f609e73ca7f6d2e2bb9.woff2",
+      "content_type": "font/woff2",
+      "bytes": 38848,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/files/HMM_WEBSITE_LOGO_PNG-01.png?height=45&v=1782457826",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/files/HMM_WEBSITE_LOGO_PNG-01.height-45-v-1782457826.png",
+      "content_type": "image/avif",
+      "bytes": 2781,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/fonts/inter/inter_n7.02711e6b374660cfc7915d1afc1c204e633421e4.woff2",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/fonts/inter/inter_n7.02711e6b374660cfc7915d1afc1c204e633421e4.woff2",
+      "content_type": "font/woff2",
+      "bytes": 39372,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.casing_U_9x-Om3.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.casing_U_9x-Om3.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 11655,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.defineInitFunction_CIjOjzsO.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.defineInitFunction_CIjOjzsO.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 289,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.v4_C3N_0s0v.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.v4_C3N_0s0v.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 1197,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.utils_K8y2k-BJ.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.utils_K8y2k-BJ.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 9535,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.storage_DQF5v-OM.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.storage_DQF5v-OM.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 569,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.hooks_yp0EzjYr.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.hooks_yp0EzjYr.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 140,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.authorize_DINGMyE5.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.authorize_DINGMyE5.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 315,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useEventListener_VNXlui36.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useEventListener_VNXlui36.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 1325,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useUserRecognitionSignal_CnvBOaSP.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useUserRecognitionSignal_CnvBOaSP.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 793,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/client.shop-cart-sync_kI91q2Wh.en.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/client.shop-cart-sync_kI91q2Wh.en.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 7889,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.validators_09U1U9sZ.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.validators_09U1U9sZ.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 1047,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/section-hydration.js?v=108434990705342316311778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/section-hydration.v-108434990705342316311778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 707,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/utilities.js?v=28506172887375975941778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/utilities.v-28506172887375975941778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 11967,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/focus.js?v=60436577539430446401778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/focus.v-60436577539430446401778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 1621,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/scrolling.js?v=162288454571026455011778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/scrolling.v-162288454571026455011778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 5199,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/component.js?v=184240237101443119871778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/component.v-184240237101443119871778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 4386,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/fonts/barlow_condensed/barlowcondensed_n7.b8dc813bf1d64de77250a6675c25535283e1677a.woff2",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/fonts/barlow_condensed/barlowcondensed_n7.b8dc813bf1d64de77250a6675c25535283e1677a.woff2",
+      "content_type": "font/woff2",
+      "bytes": 23748,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/recently-viewed-products.js?v=94729125001750262651778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/recently-viewed-products.v-94729125001750262651778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 634,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/morph.js?v=104045809772310330131778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/morph.v-104045809772310330131778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 9657,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/section-renderer.js?v=123311117485513785771778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/section-renderer.v-123311117485513785771778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 3373,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/files/BricktileDBG.png?v=1767875717&width=832",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/files/BricktileDBG.v-1767875717-width-832.png",
+      "content_type": "image/webp",
+      "bytes": 43260,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/files/BricktileCGQ.png?v=1767875717&width=832",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/files/BricktileCGQ.v-1767875717-width-832.png",
+      "content_type": "image/webp",
+      "bytes": 41108,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/files/box_prof_JGG.png?v=1778832774&width=832",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/files/box_prof_JGG.v-1778832774-width-832.png",
+      "content_type": "image/webp",
+      "bytes": 37312,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/files/Box_Profile_Ed.png?v=1778832782&width=832",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/files/Box_Profile_Ed.v-1778832782-width-832.png",
+      "content_type": "image/webp",
+      "bytes": 88030,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/files/Box_Profile_Edee.png?v=1778832780&width=832",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/files/Box_Profile_Edee.v-1778832780-width-832.png",
+      "content_type": "image/webp",
+      "bytes": 66456,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/popover-polyfill.js?v=119029313658895111201778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/popover-polyfill.v-119029313658895111201778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 19321,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/events.js?v=1118589085892804011778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/events.v-1118589085892804011778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 2650,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/overflow-list.js?v=46858356770684902511778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/overflow-list.v-46858356770684902511778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 6006,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/quick-add.js?v=114575661933533593881778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/quick-add.v-114575661933533593881778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 7514,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/fly-to-cart.js?v=48483246440248933081778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/fly-to-cart.v-48483246440248933081778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 1583,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/product-card.js?v=28695665944407642501778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/product-card.v-28695665944407642501778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 10501,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/variant-picker.js?v=24924540959574313291778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/variant-picker.v-24924540959574313291778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 9813,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/product-form.js?v=142170751179338062901778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/product-form.v-142170751179338062901778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 15811,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/accordion-custom.js?v=97588419883090888471778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/accordion-custom.v-97588419883090888471778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 1766,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/media.js?v=37825095869491791421778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/media.v-37825095869491791421778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 3912,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/product-sku.js?v=121804655373531320511778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/product-sku.v-121804655373531320511778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 1207,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/product-inventory.js?v=81520546963552472391778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/product-inventory.v-81520546963552472391778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 1023,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/slideshow.js?v=168726587398279102001778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/slideshow.v-168726587398279102001778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 14701,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/show-more.js?v=94563802205717136101778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/show-more.v-94563802205717136101778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 2236,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/product-title-truncation.js?v=81744426891537421781778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/product-title-truncation.v-81744426891537421781778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 1585,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/performance.js?v=171015751390534793081778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/performance.v-171015751390534793081778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 1116,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/product-price.js?v=83480980452100801711778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/product-price.v-83480980452100801711778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 1765,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/anchored-popover.js?v=95953304814728754461778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/anchored-popover.v-95953304814728754461778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 2699,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/floating-panel.js?v=151277338116891310371778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/floating-panel.v-151277338116891310371778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 1502,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/video-background.js?v=25237992823806706551778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/video-background.v-25237992823806706551778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 598,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/layered-slideshow.js?v=30135417790894624731778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/layered-slideshow.v-30135417790894624731778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 11400,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/component-quantity-selector.js?v=67906657287482036641778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/component-quantity-selector.v-67906657287482036641778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 4423,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/media-gallery.js?v=14624021005636302161778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/media-gallery.v-14624021005636302161778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 1410,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/volume-pricing.js?v=15442793518842484731778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/volume-pricing.v-15442793518842484731778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 354,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/rte-formatter.js?v=40306132146590816021778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/rte-formatter.v-40306132146590816021778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 577,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/price-per-item.js?v=144512917617120124431778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/price-per-item.v-144512917617120124431778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 2202,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/storefront/assets/storefront/load_feature-ed94c51f.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/storefront/assets/storefront/load_feature-ed94c51f.js",
+      "content_type": "text/javascript",
+      "bytes": 14007,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/auto-close-details.js?v=58350291535404441581778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/auto-close-details.v-58350291535404441581778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 563,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/localization.js?v=15585934801240115691778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/localization.v-15585934801240115691778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 9460,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/volume-pricing-info.js?v=94479640769665442661778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/volume-pricing-info.v-94479640769665442661778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 1323,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/storefront/assets/storefront/origin_trials-318ab40a.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/storefront/assets/storefront/origin_trials-318ab40a.js",
+      "content_type": "text/javascript",
+      "bytes": 1679,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/checkouts/internal/preloads.js?locale=en-GB",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/checkouts/internal/preloads.locale-en-GB.js",
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 14148,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/privacy-banner/privacy-banner.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/privacy-banner/privacy-banner.js",
+      "content_type": "text/javascript",
+      "bytes": 86833,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/019ff5c9-0002-7f83-b561-a18f117f7d37/quick-link-7/assets/quicklink.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/extensions/019ff5c9-0002-7f83-b561-a18f117f7d37/quick-link-7/assets/quicklink.js",
+      "content_type": "text/javascript",
+      "bytes": 12416,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a18462-ec80-7aea-81af-f15159fd2894/forms-2647/assets/shopify-forms-loader.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/extensions/01a18462-ec80-7aea-81af-f15159fd2894/forms-2647/assets/shopify-forms-loader.js",
+      "content_type": "text/javascript",
+      "bytes": 1836,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/019f800b-731b-7d22-8312-b95630c12413/disable-mouse-right-click-5/assets/protector.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/extensions/019f800b-731b-7d22-8312-b95630c12413/disable-mouse-right-click-5/assets/protector.js",
+      "content_type": "text/javascript",
+      "bytes": 14325,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/header-menu.js?v=97820922056036071501778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/header-menu.v-97820922056036071501778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 7315,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.13.1.min.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.13.1.min.js",
+      "content_type": "text/javascript",
+      "bytes": 84371,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/cart-icon.js?v=157241182139685326961778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/cart-icon.v-157241182139685326961778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 2393,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/header-actions.js?v=121308165565653895611778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/header-actions.v-121308165565653895611778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 752,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/header-drawer.js?v=121243031541024704371778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/header-drawer.v-121243031541024704371778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 2842,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/api/unstable/graphql.json",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/api/unstable/graphql.json",
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 2081,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/predictive-search.js?v=149240552485540508541778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/predictive-search.v-149240552485540508541778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 8349,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/assets/gift-card-recipient-form.js?v=129634859299628245901778759774",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/assets/gift-card-recipient-form.v-129634859299628245901778759774.js",
+      "content_type": "text/javascript",
+      "bytes": 7613,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/storefront/assets/storefront/webmcp-23c12384.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/storefront/assets/storefront/webmcp-23c12384.js",
+      "content_type": "text/javascript",
+      "bytes": 86494,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a18462-ec80-7aea-81af-f15159fd2894/forms-2647/assets/index.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/extensions/01a18462-ec80-7aea-81af-f15159fd2894/forms-2647/assets/index.js",
+      "content_type": "text/javascript",
+      "bytes": 944758,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/wpm/b264bf420w2e1681cap8d55857fm7d879f9cm.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/wpm/b264bf420w2e1681cap8d55857fm7d879f9cm.js",
+      "content_type": "text/javascript",
+      "bytes": 304996,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/s/trekkie.storefront.387430da5919a2f9b410f0ffaf5b70216a61abfb.min.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/s/trekkie.storefront.387430da5919a2f9b410f0ffaf5b70216a61abfb.min.js",
+      "content_type": "text/javascript",
+      "bytes": 126082,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://otlp-http-production.shopifysvc.com/v1/metrics",
+      "local_path": "heritage_export/assets/otlp-http-production.shopifysvc.com/v1/metrics",
+      "content_type": "application/json",
+      "bytes": 21,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/files/BricktileBRG.png?v=1767876684&width=832",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/files/BricktileBRG.v-1767876684-width-832.png",
+      "content_type": "image/webp",
+      "bytes": 32994,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/storefront/assets/shop_events_listener-4e26a9ce.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/storefront/assets/shop_events_listener-4e26a9ce.js",
+      "content_type": "text/javascript",
+      "bytes": 13482,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/files/CorrugatedBRG.png?v=1767876067&width=832",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/files/CorrugatedBRG.v-1767876067-width-832.png",
+      "content_type": "image/webp",
+      "bytes": 30412,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/files/Corrugatedd_BRG-1.png?v=1778832771&width=832",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/files/Corrugatedd_BRG-1.v-1778832771-width-832.png",
+      "content_type": "image/webp",
+      "bytes": 32586,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/files/CorrugatedAlloyz.png?v=1767876067&width=832",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/files/CorrugatedAlloyz.v-1767876067-width-832.png",
+      "content_type": "image/webp",
+      "bytes": 20512,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/files/HMM_WEBSITE_LOGO_PNG-01.png?v=1782457826&width=260",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/files/HMM_WEBSITE_LOGO_PNG-01.v-1782457826-width-260.png",
+      "content_type": "image/png",
+      "bytes": 2942,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://forms.shopifyapps.com/api/v2/form_instances?shopify_domain=vcmus7-d1.myshopify.com",
+      "local_path": "heritage_export/assets/forms.shopifyapps.com/api/v2/form_instances.shopify_domain-vcmus7-d1-myshopify-com",
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 2,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/files/logo.jpg?crop=center&height=32&v=1757064220&width=32",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/files/logo.crop-center-height-32-v-1757064220-width-32.jpg",
+      "content_type": "image/jxl",
+      "bytes": 786,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shop/t/10/compiled_assets/styles.css?v=8948164566574440361787059904",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shop/t/10/compiled_assets/styles.v-8948164566574440361787059904.css",
+      "content_type": "text/css",
+      "bytes": 364419,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/polyfills.Cm4XMvKf.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/polyfills.Cm4XMvKf.js",
+      "content_type": "text/javascript",
+      "bytes": 56979,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/app.cAthPeiN.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/app.cAthPeiN.js",
+      "content_type": "text/javascript",
+      "bytes": 23919,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/2c1ab0fe.DrRCn3HG.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/2c1ab0fe.DrRCn3HG.js",
+      "content_type": "text/javascript",
+      "bytes": 134689,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/6a2fc6d6.DqfKWMZb.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/6a2fc6d6.DqfKWMZb.js",
+      "content_type": "text/javascript",
+      "bytes": 447625,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/5587f402.BLOv5NpY.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/5587f402.BLOv5NpY.js",
+      "content_type": "text/javascript",
+      "bytes": 459073,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/cf29e63b.BRQXh2EH.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/cf29e63b.BRQXh2EH.js",
+      "content_type": "text/javascript",
+      "bytes": 3985,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/bfe75f31.6yCNtNv-.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/bfe75f31.6yCNtNv-.js",
+      "content_type": "text/javascript",
+      "bytes": 1432,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/8b3289d0.Bt3qZnT_.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/8b3289d0.Bt3qZnT_.js",
+      "content_type": "text/javascript",
+      "bytes": 2284,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/2255f8fa.DOeij2sJ.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/2255f8fa.DOeij2sJ.js",
+      "content_type": "text/javascript",
+      "bytes": 10863,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/204243fa.V7gQ36sj.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/204243fa.V7gQ36sj.js",
+      "content_type": "text/javascript",
+      "bytes": 2784,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/5c5817f3.BEu0evcd.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/5c5817f3.BEu0evcd.js",
+      "content_type": "text/javascript",
+      "bytes": 2457,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/8f46f026.Bz0NEFVt.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/8f46f026.Bz0NEFVt.js",
+      "content_type": "text/javascript",
+      "bytes": 1440,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f05935e5.bhemP6c2.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f05935e5.bhemP6c2.js",
+      "content_type": "text/javascript",
+      "bytes": 2528,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/32e8c018.BVeb327i.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/32e8c018.BVeb327i.js",
+      "content_type": "text/javascript",
+      "bytes": 4457,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7336bdaf.DcxaUsDT.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7336bdaf.DcxaUsDT.js",
+      "content_type": "text/javascript",
+      "bytes": 3132,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/6f2620f5.D_02a169.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/6f2620f5.D_02a169.js",
+      "content_type": "text/javascript",
+      "bytes": 1905,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/cf6ddc11.DMeQLHv7.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/cf6ddc11.DMeQLHv7.js",
+      "content_type": "text/javascript",
+      "bytes": 2372,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/b8733b27.C0PFpUAK.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/b8733b27.C0PFpUAK.js",
+      "content_type": "text/javascript",
+      "bytes": 5228,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/e39bc11c.BaBGTrLm.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/e39bc11c.BaBGTrLm.js",
+      "content_type": "text/javascript",
+      "bytes": 4049,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/08a3b809.DQs60AXV.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/08a3b809.DQs60AXV.js",
+      "content_type": "text/javascript",
+      "bytes": 3025,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/164ad2e3.B1TfVO1E.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/164ad2e3.B1TfVO1E.js",
+      "content_type": "text/javascript",
+      "bytes": 703685,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/69fae6d4.B0cVlpvy.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/69fae6d4.B0cVlpvy.js",
+      "content_type": "text/javascript",
+      "bytes": 1057,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/e12db40c.BI5RQVDa.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/e12db40c.BI5RQVDa.js",
+      "content_type": "text/javascript",
+      "bytes": 1330,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/60a453ce.DXa3DaPc.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/60a453ce.DXa3DaPc.js",
+      "content_type": "text/javascript",
+      "bytes": 3022,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/fb3b4968.B33l1A_z.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/fb3b4968.B33l1A_z.js",
+      "content_type": "text/javascript",
+      "bytes": 141541,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f8706cb6.DmSw67Cj.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f8706cb6.DmSw67Cj.js",
+      "content_type": "text/javascript",
+      "bytes": 180930,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/0e9ee714.wULXKuPc.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/0e9ee714.wULXKuPc.js",
+      "content_type": "text/javascript",
+      "bytes": 3911,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/39921a74.3CxTFnjT.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/39921a74.3CxTFnjT.js",
+      "content_type": "text/javascript",
+      "bytes": 2390,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7a8217fd.BBDsaE4D.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7a8217fd.BBDsaE4D.js",
+      "content_type": "text/javascript",
+      "bytes": 7023,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/8599b02a.SMqdFzKQ.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/8599b02a.SMqdFzKQ.js",
+      "content_type": "text/javascript",
+      "bytes": 217,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/dffdfb34.CMQnj3Km.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/dffdfb34.CMQnj3Km.js",
+      "content_type": "text/javascript",
+      "bytes": 117416,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/a422df8c.DOeqFAvq.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/a422df8c.DOeqFAvq.js",
+      "content_type": "text/javascript",
+      "bytes": 2232,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/efa0389a.DrLHo2nc.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/efa0389a.DrLHo2nc.js",
+      "content_type": "text/javascript",
+      "bytes": 13529,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/c8760fd8.Be0EZ9hi.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/c8760fd8.Be0EZ9hi.js",
+      "content_type": "text/javascript",
+      "bytes": 2125,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/53bbdad9.CVg-OYc7.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/53bbdad9.CVg-OYc7.js",
+      "content_type": "text/javascript",
+      "bytes": 632,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/1f5e7811.DFPNjnst.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/1f5e7811.DFPNjnst.js",
+      "content_type": "text/javascript",
+      "bytes": 296,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/1a6c2867.DIvU9A1-.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/1a6c2867.DIvU9A1-.js",
+      "content_type": "text/javascript",
+      "bytes": 663,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/2fdb3dd3.CTDVcfb6.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/2fdb3dd3.CTDVcfb6.js",
+      "content_type": "text/javascript",
+      "bytes": 3837,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/22345fd4.BAghc-fu.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/22345fd4.BAghc-fu.js",
+      "content_type": "text/javascript",
+      "bytes": 1031,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/0e67bd3b.CFeNdDM-.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/0e67bd3b.CFeNdDM-.js",
+      "content_type": "text/javascript",
+      "bytes": 62184,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/a9fa9fda.BeDDbBvp.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/a9fa9fda.BeDDbBvp.js",
+      "content_type": "text/javascript",
+      "bytes": 2047,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/ca3e798e.Dl0SRkiU.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/ca3e798e.Dl0SRkiU.js",
+      "content_type": "text/javascript",
+      "bytes": 2060,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f7861534.Bd8yhhUE.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f7861534.Bd8yhhUE.js",
+      "content_type": "text/javascript",
+      "bytes": 3315,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/47b970b2.BXt-43WV.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/47b970b2.BXt-43WV.js",
+      "content_type": "text/javascript",
+      "bytes": 3935,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/064f6ac1.4EMhYNtA.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/064f6ac1.4EMhYNtA.js",
+      "content_type": "text/javascript",
+      "bytes": 3511,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/17425706.BcJPt7Oh.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/17425706.BcJPt7Oh.js",
+      "content_type": "text/javascript",
+      "bytes": 1016,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/71ae3d5c.DH-HAOXQ.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/71ae3d5c.DH-HAOXQ.js",
+      "content_type": "text/javascript",
+      "bytes": 1583,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/cb5cf153.r_2iWLRe.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/cb5cf153.r_2iWLRe.js",
+      "content_type": "text/javascript",
+      "bytes": 5838,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/06ef5503.Dv-zBuK4.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/06ef5503.Dv-zBuK4.js",
+      "content_type": "text/javascript",
+      "bytes": 296,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/acc42fa8.DaJQita_.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/acc42fa8.DaJQita_.js",
+      "content_type": "text/javascript",
+      "bytes": 11367,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/cccd6056.DePXU1Wc.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/cccd6056.DePXU1Wc.js",
+      "content_type": "text/javascript",
+      "bytes": 4417,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/0b8657b8.D-I2um0-.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/0b8657b8.D-I2um0-.js",
+      "content_type": "text/javascript",
+      "bytes": 1182,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/79974aab.zZ2KWkIs.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/79974aab.zZ2KWkIs.js",
+      "content_type": "text/javascript",
+      "bytes": 2785,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/89e2d30a.BYEQZ8wJ.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/89e2d30a.BYEQZ8wJ.js",
+      "content_type": "text/javascript",
+      "bytes": 4445,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/ed9f2238.hwBClo-8.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/ed9f2238.hwBClo-8.js",
+      "content_type": "text/javascript",
+      "bytes": 1579,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/6fb6f9d8.BAMqjCt6.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/6fb6f9d8.BAMqjCt6.js",
+      "content_type": "text/javascript",
+      "bytes": 473,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/1444e6bd.BM7R-elq.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/1444e6bd.BM7R-elq.js",
+      "content_type": "text/javascript",
+      "bytes": 1345,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/55098bf1.Dz8MQz2P.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/55098bf1.Dz8MQz2P.js",
+      "content_type": "text/javascript",
+      "bytes": 783,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f49d4216.CDFLXjau.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f49d4216.CDFLXjau.js",
+      "content_type": "text/javascript",
+      "bytes": 1725,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7b0c98ea.CRpHa0fS.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7b0c98ea.CRpHa0fS.js",
+      "content_type": "text/javascript",
+      "bytes": 1686,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/d22d2b80.jfu5yGpw.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/d22d2b80.jfu5yGpw.js",
+      "content_type": "text/javascript",
+      "bytes": 11840,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f58f39d8.wWS96b1U.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f58f39d8.wWS96b1U.js",
+      "content_type": "text/javascript",
+      "bytes": 1147,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/e03065ab.CWf9aWZN.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/e03065ab.CWf9aWZN.js",
+      "content_type": "text/javascript",
+      "bytes": 542,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/c09515bf.B71fejgK.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/c09515bf.B71fejgK.js",
+      "content_type": "text/javascript",
+      "bytes": 131,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/6bfea526.B0c9qjLX.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/6bfea526.B0c9qjLX.js",
+      "content_type": "text/javascript",
+      "bytes": 82986,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/ac5a19ff.ns171nJ5.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/ac5a19ff.ns171nJ5.js",
+      "content_type": "text/javascript",
+      "bytes": 567,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/598fef4e.DygUyRW2.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/598fef4e.DygUyRW2.js",
+      "content_type": "text/javascript",
+      "bytes": 5530,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/e77f7fe0.DFN8f_R0.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/e77f7fe0.DFN8f_R0.js",
+      "content_type": "text/javascript",
+      "bytes": 18060,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/cc6ff67d.DVXb3TBr.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/cc6ff67d.DVXb3TBr.js",
+      "content_type": "text/javascript",
+      "bytes": 6051,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/bf513f9c.Do-pzA-t.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/bf513f9c.Do-pzA-t.js",
+      "content_type": "text/javascript",
+      "bytes": 1459,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/dfca5da5.Aek1wZmx.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/dfca5da5.Aek1wZmx.js",
+      "content_type": "text/javascript",
+      "bytes": 2052,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/dae24aab.Ddqlep8a.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/dae24aab.Ddqlep8a.js",
+      "content_type": "text/javascript",
+      "bytes": 151,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/ddf59287.CYD1TGGD.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/ddf59287.CYD1TGGD.js",
+      "content_type": "text/javascript",
+      "bytes": 2908,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/01973ac7.DH2lZj47.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/01973ac7.DH2lZj47.js",
+      "content_type": "text/javascript",
+      "bytes": 6360,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/58314944.C8tOb_bS.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/58314944.C8tOb_bS.js",
+      "content_type": "text/javascript",
+      "bytes": 2442,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/945a08d6.1JARX8O_.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/945a08d6.1JARX8O_.js",
+      "content_type": "text/javascript",
+      "bytes": 545,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/a25deb9a.DxN44MdX.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/a25deb9a.DxN44MdX.js",
+      "content_type": "text/javascript",
+      "bytes": 2718,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/2b89a178.CjdbXfg7.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/2b89a178.CjdbXfg7.js",
+      "content_type": "text/javascript",
+      "bytes": 6669,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/9068a4ed.D9qjdpv1.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/9068a4ed.D9qjdpv1.js",
+      "content_type": "text/javascript",
+      "bytes": 478,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/b684bff6.8wYVCzKV.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/b684bff6.8wYVCzKV.js",
+      "content_type": "text/javascript",
+      "bytes": 3376,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f1968089.yy6CXKcX.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f1968089.yy6CXKcX.js",
+      "content_type": "text/javascript",
+      "bytes": 2231,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/910cd6e2.DS6ygtkl.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/910cd6e2.DS6ygtkl.js",
+      "content_type": "text/javascript",
+      "bytes": 5246,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/347b440c.DPGZDqyz.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/347b440c.DPGZDqyz.js",
+      "content_type": "text/javascript",
+      "bytes": 10359,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/5ade1ef3.DXB4L25S.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/5ade1ef3.DXB4L25S.js",
+      "content_type": "text/javascript",
+      "bytes": 1856,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/181d38d3.C2MFP83j.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/181d38d3.C2MFP83j.js",
+      "content_type": "text/javascript",
+      "bytes": 2936,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/5a347040.DqqqLoQW.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/5a347040.DqqqLoQW.js",
+      "content_type": "text/javascript",
+      "bytes": 653,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/792bb671.MG_raAxs.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/792bb671.MG_raAxs.js",
+      "content_type": "text/javascript",
+      "bytes": 1095,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/9ca7d819.B_r4aISK.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/9ca7d819.B_r4aISK.js",
+      "content_type": "text/javascript",
+      "bytes": 8784,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f51e663e.D1Mwbrt6.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f51e663e.D1Mwbrt6.js",
+      "content_type": "text/javascript",
+      "bytes": 4410,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/21cc90a2.DHzOO82q.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/21cc90a2.DHzOO82q.js",
+      "content_type": "text/javascript",
+      "bytes": 88,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/64de7b49.B2WWgZOD.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/64de7b49.B2WWgZOD.js",
+      "content_type": "text/javascript",
+      "bytes": 5265,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/ca0c3e72.mAtaVirp.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/ca0c3e72.mAtaVirp.js",
+      "content_type": "text/javascript",
+      "bytes": 366,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/8e79be58.C8MS0jza.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/8e79be58.C8MS0jza.js",
+      "content_type": "text/javascript",
+      "bytes": 7152,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/90e26f5f.Dtj-XP1M.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/90e26f5f.Dtj-XP1M.js",
+      "content_type": "text/javascript",
+      "bytes": 8297,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/31cc568e.95lmLO5k.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/31cc568e.95lmLO5k.js",
+      "content_type": "text/javascript",
+      "bytes": 89,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/65f3d4da.Bb3QiqCm.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/65f3d4da.Bb3QiqCm.js",
+      "content_type": "text/javascript",
+      "bytes": 107,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/d5d34b3b.BdlOFFHa.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/d5d34b3b.BdlOFFHa.js",
+      "content_type": "text/javascript",
+      "bytes": 339,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/ca5e9c49.DTB5eJ2J.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/ca5e9c49.DTB5eJ2J.js",
+      "content_type": "text/javascript",
+      "bytes": 127,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f3e117aa.DTJ0PR2t.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f3e117aa.DTJ0PR2t.js",
+      "content_type": "text/javascript",
+      "bytes": 3347,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7aefefff.DcUdfhSw.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7aefefff.DcUdfhSw.js",
+      "content_type": "text/javascript",
+      "bytes": 22585,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/b3389d5c.fiS1Nr-I.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/b3389d5c.fiS1Nr-I.js",
+      "content_type": "text/javascript",
+      "bytes": 726,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/73a9b0a0.BRydut8V.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/73a9b0a0.BRydut8V.js",
+      "content_type": "text/javascript",
+      "bytes": 11337,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/86720dbb.B5HdvqVg.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/86720dbb.B5HdvqVg.js",
+      "content_type": "text/javascript",
+      "bytes": 140150,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/0724c71d.O32rwBsR.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/0724c71d.O32rwBsR.js",
+      "content_type": "text/javascript",
+      "bytes": 2395,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7114e006.lrS99emJ.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7114e006.lrS99emJ.js",
+      "content_type": "text/javascript",
+      "bytes": 26435,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/9babe369.ocvpn2KV.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/9babe369.ocvpn2KV.js",
+      "content_type": "text/javascript",
+      "bytes": 73,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/434e3b0a.oup8Ur0H.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/434e3b0a.oup8Ur0H.js",
+      "content_type": "text/javascript",
+      "bytes": 464,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/e0989459.BN6EGpPC.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/e0989459.BN6EGpPC.js",
+      "content_type": "text/javascript",
+      "bytes": 1600,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/cdfd59e6.Cs835jgd.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/cdfd59e6.Cs835jgd.js",
+      "content_type": "text/javascript",
+      "bytes": 567,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/d2e6a587.Bvz9lXAd.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/d2e6a587.Bvz9lXAd.js",
+      "content_type": "text/javascript",
+      "bytes": 8290,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/ca3c8263.DkbnVCmF.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/ca3c8263.DkbnVCmF.js",
+      "content_type": "text/javascript",
+      "bytes": 91439,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/083cdde5.DYEjGEf-.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/083cdde5.DYEjGEf-.js",
+      "content_type": "text/javascript",
+      "bytes": 15135,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/fe885b80.rUOq8lM6.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/fe885b80.rUOq8lM6.js",
+      "content_type": "text/javascript",
+      "bytes": 228,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f78726c8.ClHl3T7C.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/f78726c8.ClHl3T7C.js",
+      "content_type": "text/javascript",
+      "bytes": 201,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/d93ca466.C9R5umgP.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/d93ca466.C9R5umgP.js",
+      "content_type": "text/javascript",
+      "bytes": 1147,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/e129c76e.SSgFk5gO.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/e129c76e.SSgFk5gO.js",
+      "content_type": "text/javascript",
+      "bytes": 759,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/051149c8.lHD9iIAq.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/051149c8.lHD9iIAq.js",
+      "content_type": "text/javascript",
+      "bytes": 2634,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/d7065744.CK6x5CHa.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/d7065744.CK6x5CHa.js",
+      "content_type": "text/javascript",
+      "bytes": 929,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7ee73f43.ZeHo6koi.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7ee73f43.ZeHo6koi.js",
+      "content_type": "text/javascript",
+      "bytes": 2442,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/0c0ad074.BLLdTe6K.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/0c0ad074.BLLdTe6K.js",
+      "content_type": "text/javascript",
+      "bytes": 390,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/8fe56fc9.DKeGEDf5.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/8fe56fc9.DKeGEDf5.js",
+      "content_type": "text/javascript",
+      "bytes": 102266,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/2210eadb.DF0gIp_2.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/2210eadb.DF0gIp_2.js",
+      "content_type": "text/javascript",
+      "bytes": 905,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/8a00b682.BEOU-kK4.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/8a00b682.BEOU-kK4.js",
+      "content_type": "text/javascript",
+      "bytes": 3137,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/87bfafec.BIoL9TQ3.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/87bfafec.BIoL9TQ3.js",
+      "content_type": "text/javascript",
+      "bytes": 462,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/e477f96c.B7RRII2U.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/e477f96c.B7RRII2U.js",
+      "content_type": "text/javascript",
+      "bytes": 1765,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/c6b02d73.DFxNKn7U.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/c6b02d73.DFxNKn7U.js",
+      "content_type": "text/javascript",
+      "bytes": 549,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/71b60e0a.Bdvld-6t.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/71b60e0a.Bdvld-6t.js",
+      "content_type": "text/javascript",
+      "bytes": 376,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/24773686.C8B24loc.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/24773686.C8B24loc.js",
+      "content_type": "text/javascript",
+      "bytes": 1184,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7048f38b.Ct0cMld6.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7048f38b.Ct0cMld6.js",
+      "content_type": "text/javascript",
+      "bytes": 3206,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/c3c7c048.B_bxvive.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/c3c7c048.B_bxvive.js",
+      "content_type": "text/javascript",
+      "bytes": 4603,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7aa3b627.DU4dK-Iv.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/7aa3b627.DU4dK-Iv.js",
+      "content_type": "text/javascript",
+      "bytes": 2906,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/dada7e07.CS-vFszt.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/dada7e07.CS-vFszt.js",
+      "content_type": "text/javascript",
+      "bytes": 2386,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/c10167e6.B31SY0iW.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/c10167e6.B31SY0iW.js",
+      "content_type": "text/javascript",
+      "bytes": 7765,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/17e57de1.DrMLKbeq.js",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/17e57de1.DrMLKbeq.js",
+      "content_type": "text/javascript",
+      "bytes": 154,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/app.DBH01810.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/app.DBH01810.css",
+      "content_type": "text/css",
+      "bytes": 7542,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/is-address-empty.DDArxpAV.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/is-address-empty.DDArxpAV.css",
+      "content_type": "text/css",
+      "bytes": 124570,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/hydrate.LpOe7KaD.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/hydrate.LpOe7KaD.css",
+      "content_type": "text/css",
+      "bytes": 118496,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/OnePage.C_uC3EPz.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/OnePage.C_uC3EPz.css",
+      "content_type": "text/css",
+      "bytes": 5632,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/StickyPayButton.D-gNjNDa.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/StickyPayButton.D-gNjNDa.css",
+      "content_type": "text/css",
+      "bytes": 4688,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/Switch.BS8yVgoP.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/Switch.BS8yVgoP.css",
+      "content_type": "text/css",
+      "bytes": 2632,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/useShopPayProgressIntercepts.CIy8uDiZ.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/useShopPayProgressIntercepts.CIy8uDiZ.css",
+      "content_type": "text/css",
+      "bytes": 404,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/VatNumberValidationField.DZtuG_UK.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/VatNumberValidationField.DZtuG_UK.css",
+      "content_type": "text/css",
+      "bytes": 16320,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/EmptyState.BEvzDDvy.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/EmptyState.BEvzDDvy.css",
+      "content_type": "text/css",
+      "bytes": 49,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/Choice.BMdzfW_y.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/Choice.BMdzfW_y.css",
+      "content_type": "text/css",
+      "bytes": 14019,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/ShopPayLogo.87JMHPUK.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/ShopPayLogo.87JMHPUK.css",
+      "content_type": "text/css",
+      "bytes": 418,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/ChangeCompanyLocationLink.B1YSPUDc.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/ChangeCompanyLocationLink.B1YSPUDc.css",
+      "content_type": "text/css",
+      "bytes": 595,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/PhoneField.uZEuHncj.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/PhoneField.uZEuHncj.css",
+      "content_type": "text/css",
+      "bytes": 1627,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/Popover.Bi1nHaU-.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/Popover.Bi1nHaU-.css",
+      "content_type": "text/css",
+      "bytes": 1171,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/index.Du9dByaI.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/index.Du9dByaI.css",
+      "content_type": "text/css",
+      "bytes": 857,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/useApplePayButtonStatus.ct4xfivv.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/useApplePayButtonStatus.ct4xfivv.css",
+      "content_type": "text/css",
+      "bytes": 182,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/TransitionHeight.CuRoM9zv.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/TransitionHeight.CuRoM9zv.css",
+      "content_type": "text/css",
+      "bytes": 54,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/Tipping.BcTJoNaV.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/Tipping.BcTJoNaV.css",
+      "content_type": "text/css",
+      "bytes": 578,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentIcon.gzvCNwz_.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentIcon.gzvCNwz_.css",
+      "content_type": "text/css",
+      "bytes": 231,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentLine.DT05kVlY.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentLine.DT05kVlY.css",
+      "content_type": "text/css",
+      "bytes": 9523,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/Section.CU18S7Ap.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/Section.CU18S7Ap.css",
+      "content_type": "text/css",
+      "bytes": 133,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/findSelectedDeliveryMethod.xO_7ctnq.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/findSelectedDeliveryMethod.xO_7ctnq.css",
+      "content_type": "text/css",
+      "bytes": 1953,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/Middot.D7Ujmshx.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/Middot.D7Ujmshx.css",
+      "content_type": "text/css",
+      "bytes": 89,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/EstimatedDeliveryContent.BAjucZ-8.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/EstimatedDeliveryContent.BAjucZ-8.css",
+      "content_type": "text/css",
+      "bytes": 207,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/BrandedPromise.B0RErzdh.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/BrandedPromise.B0RErzdh.css",
+      "content_type": "text/css",
+      "bytes": 156,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/ShippingMethods.DU0m5rdF.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/ShippingMethods.DU0m5rdF.css",
+      "content_type": "text/css",
+      "bytes": 68,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/ShippingMethodSelector.B0hio2RO.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/ShippingMethodSelector.B0hio2RO.css",
+      "content_type": "text/css",
+      "bytes": 278,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/SubscriptionPriceBreakdown.vTcdVGq4.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/SubscriptionPriceBreakdown.vTcdVGq4.css",
+      "content_type": "text/css",
+      "bytes": 70,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/BelowTheFoldContent.DRJckcGa.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/BelowTheFoldContent.DRJckcGa.css",
+      "content_type": "text/css",
+      "bytes": 535,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/RememberMeSection.JBO5WNhc.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/RememberMeSection.JBO5WNhc.css",
+      "content_type": "text/css",
+      "bytes": 236,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentMethodProgressionHost.kQR0txJ7.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentMethodProgressionHost.kQR0txJ7.css",
+      "content_type": "text/css",
+      "bytes": 9759,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/RedirectionNotice.B8v_QGNW.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/RedirectionNotice.B8v_QGNW.css",
+      "content_type": "text/css",
+      "bytes": 25,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/MissingFields.BbxB_6wt.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/MissingFields.BbxB_6wt.css",
+      "content_type": "text/css",
+      "bytes": 184,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/MobileOrderSummary.CyQZvZOO.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/MobileOrderSummary.CyQZvZOO.css",
+      "content_type": "text/css",
+      "bytes": 443,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/useOnePageFormSubmit.1WzRSowg.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/useOnePageFormSubmit.1WzRSowg.css",
+      "content_type": "text/css",
+      "bytes": 2810,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/checkout-pay-button-exit.KhTiKgPS.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/checkout-pay-button-exit.KhTiKgPS.css",
+      "content_type": "text/css",
+      "bytes": 2547,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/observe-fit-scale.DpLOWYa8.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/observe-fit-scale.DpLOWYa8.css",
+      "content_type": "text/css",
+      "bytes": 414,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/useShopPayButtonClassName.btyKOfco.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/useShopPayButtonClassName.btyKOfco.css",
+      "content_type": "text/css",
+      "bytes": 815,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/Payment.DrWvAMMF.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/Payment.DrWvAMMF.css",
+      "content_type": "text/css",
+      "bytes": 87,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentOptionSelector.s-Kd_X2E.css",
+      "local_path": "heritage_export/assets/heritagemabati.co.ke/cdn/shopifycloud/checkout-web/assets/c1/assets/PaymentOptionSelector.s-Kd_X2E.css",
+      "content_type": "text/css",
+      "bytes": 2831,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://otlp-http-production.shopifysvc.com/v1/logs",
+      "local_path": "heritage_export/assets/otlp-http-production.shopifysvc.com/v1/logs",
+      "content_type": "application/json",
+      "bytes": 21,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.reportAssetMetrics_DvhJ0-D_.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.reportAssetMetrics_DvhJ0-D_.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 3179,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/loader.lead-capture.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/loader.lead-capture.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 2009,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/static/images/flags/gb.svg",
+      "local_path": "heritage_export/assets/cdn.shopify.com/static/images/flags/gb.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 862,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.hooks_BJbkXgqa.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.hooks_BJbkXgqa.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 1078,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useElementEventListener_BPRLKJ31.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useElementEventListener_BPRLKJ31.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 512,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/client.lead-capture_DO-axrBV.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/client.lead-capture_DO-axrBV.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 37206,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.toast_Cb7xlk_A.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.toast_Cb7xlk_A.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 1005,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.ShopIcon_BDvv2_dH.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.ShopIcon_BDvv2_dH.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 2075,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.StyleProvider_CzlqYHHk.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.StyleProvider_CzlqYHHk.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 1575,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.utils_DQpFR_1e.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.utils_DQpFR_1e.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 3411,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.BrandedButtonIcon_BPpnVEOH.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.BrandedButtonIcon_BPpnVEOH.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 906,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.AuthorizeIframe_CrjZ0VEe.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.AuthorizeIframe_CrjZ0VEe.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 6143,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.AuthorizeStateProvider_VRES0fkO.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.AuthorizeStateProvider_VRES0fkO.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 30154,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.css_D26DPr2P.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.css_D26DPr2P.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 35186,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.I18n_D6vkEOE9.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.I18n_D6vkEOE9.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 6663,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useAuthorizeUrl_CvATL-0p.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useAuthorizeUrl_CvATL-0p.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 1671,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useWindoidMessageHandler_DU7Ha63w.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useWindoidMessageHandler_DU7Ha63w.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 1262,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.buildUrlSearchParams_BVuCkT0r.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.buildUrlSearchParams_BVuCkT0r.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 2529,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useWindoidPreAuthPromptContinue_k1bOcOBc.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useWindoidPreAuthPromptContinue_k1bOcOBc.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 588,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.colors_CaG6LKvC.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.colors_CaG6LKvC.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 3230,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://forms.shopifyapps.com/api/v2/feature_flags?shopify_domain=vcmus7-d1.myshopify.com",
+      "local_path": "heritage_export/assets/forms.shopifyapps.com/api/v2/feature_flags.shopify_domain-vcmus7-d1-myshopify-com",
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 107,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useCompleteLogin_xdPR990q.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useCompleteLogin_xdPR990q.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 608,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useEmailListener_DML0g73y.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useEmailListener_DML0g73y.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 3413,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.windoid_BkiqS_xQ.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.windoid_BkiqS_xQ.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 1507,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useStorefrontOrigin_B7tWuKit.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useStorefrontOrigin_B7tWuKit.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 471,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.networkRequest_BxdlL10e.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.networkRequest_BxdlL10e.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 1461,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.context_IZTYG4gY.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.context_IZTYG4gY.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 603,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.ShopLogin_Cz5Zowe0.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.ShopLogin_Cz5Zowe0.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 15923,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.PortalProvider_DJF4YJ5S.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.PortalProvider_DJF4YJ5S.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 791,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useDispatchEvent_CF7tX4yY.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.useDispatchEvent_CF7tX4yY.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 548,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.ShopAppIcon_CS4kfDzS.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.ShopAppIcon_CS4kfDzS.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 2367,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.Button_DNPOT1nx.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.Button_DNPOT1nx.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 678,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.debounce_C-IIq26m.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.debounce_C-IIq26m.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 237,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.buildAuthorizeUrl_D_5DlD80.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.buildAuthorizeUrl_D_5DlD80.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 919,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.zoom_lBsifbFv.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/chunk.zoom_lBsifbFv.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 585,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://js.hcaptcha.com/1/api.js?onload=hcaptchaOnLoad&recaptchacompat=off&render=explicit",
+      "local_path": "heritage_export/assets/js.hcaptcha.com/1/api.onload-hcaptchaOnLoad-recaptchacompat-off-render-explicit.js",
+      "content_type": "application/javascript",
+      "bytes": 414095,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MRegular.woff2",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MRegular.woff2",
+      "content_type": "font/woff2",
+      "bytes": 63600,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/translations/chunk.en_CgHvn3cK.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/translations/chunk.en_CgHvn3cK.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 118,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://cdn.shopify.com/shopifycloud/shop-js/modules/v2/translations/chunk.en_B5xCZv9M.esm.js",
+      "local_path": "heritage_export/assets/cdn.shopify.com/shopifycloud/shop-js/modules/v2/translations/chunk.en_B5xCZv9M.esm.js",
+      "content_type": "text/javascript",
+      "bytes": 542,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://api.hcaptcha.com/checksiteconfig?host=heritagemabati.co.ke&sc=1&sitekey=2e7f6342-57df-422a-8431-ddd86df296bc&spst=1&swa=1&v=3b71cbe0d677f40e17dc54f11aed7a067d3e1066",
+      "local_path": "heritage_export/assets/api.hcaptcha.com/checksiteconfig.host-heritagemabati-co-ke-sc-1-sitekey-2e7f6342-57df-422a-8431-ddd86df",
+      "content_type": "application/json",
+      "bytes": 808,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://newassets.hcaptcha.com/c/0a1b21a2bb380b061fe1060fd6d8a4779bb80619b5d13df11ab58a5b470f0792/hsw.js",
+      "local_path": "heritage_export/assets/newassets.hcaptcha.com/c/0a1b21a2bb380b061fe1060fd6d8a4779bb80619b5d13df11ab58a5b470f0792/hsw.js",
+      "content_type": "application/javascript",
+      "bytes": 1552942,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/tailwind-7HREJ6RN.css",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/tailwind-7HREJ6RN.css",
+      "content_type": "text/css",
+      "bytes": 80295,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/global-CuaHjdXa.css",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/global-CuaHjdXa.css",
+      "content_type": "text/css",
+      "bytes": 1272,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Button-B8t0m0JB.css",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Button-B8t0m0JB.css",
+      "content_type": "text/css",
+      "bytes": 6487,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Tooltip-Ce3xA_jN.css",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Tooltip-Ce3xA_jN.css",
+      "content_type": "text/css",
+      "bytes": 1217,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AuthorizeDiscount-JMxKZ1Qk.css",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AuthorizeDiscount-JMxKZ1Qk.css",
+      "content_type": "text/css",
+      "bytes": 1402,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Input-DGr4YrRG.css",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Input-DGr4YrRG.css",
+      "content_type": "text/css",
+      "bytes": 2803,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Spacing-BP3T2Z8F.css",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Spacing-BP3T2Z8F.css",
+      "content_type": "text/css",
+      "bytes": 5686,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/string-BjbqEgkz.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/string-BjbqEgkz.js",
+      "content_type": "text/javascript",
+      "bytes": 308,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AuthorizeDiscount-n4GIN2R9.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AuthorizeDiscount-n4GIN2R9.js",
+      "content_type": "text/javascript",
+      "bytes": 12069,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useAuthorizeTexts-DpvZWj8P.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useAuthorizeTexts-DpvZWj8P.js",
+      "content_type": "text/javascript",
+      "bytes": 5162,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/authorize-CR_4iP-h.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/authorize-CR_4iP-h.js",
+      "content_type": "text/javascript",
+      "bytes": 1478,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AuthorizeWithConsent-CrnPqyoI.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AuthorizeWithConsent-CrnPqyoI.js",
+      "content_type": "text/javascript",
+      "bytes": 8671,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/analyticsContext-CByxwMQX.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/analyticsContext-CByxwMQX.js",
+      "content_type": "text/javascript",
+      "bytes": 1810,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/account-BNlqOcoK.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/account-BNlqOcoK.js",
+      "content_type": "text/javascript",
+      "bytes": 3479,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/PageLoaded-CVEKlajX.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/PageLoaded-CVEKlajX.js",
+      "content_type": "text/javascript",
+      "bytes": 1094,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AnalyticsProvider-drDGnDPl.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AnalyticsProvider-drDGnDPl.js",
+      "content_type": "text/javascript",
+      "bytes": 27824,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/account-DPZBjXsp.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/account-DPZBjXsp.js",
+      "content_type": "text/javascript",
+      "bytes": 1364,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Spacing-Clu14Xsw.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Spacing-Clu14Xsw.js",
+      "content_type": "text/javascript",
+      "bytes": 10871,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/browser-D8mMhnhM.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/browser-D8mMhnhM.js",
+      "content_type": "text/javascript",
+      "bytes": 17430,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/sanitizeHtml-6uxsQSS4.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/sanitizeHtml-6uxsQSS4.js",
+      "content_type": "text/javascript",
+      "bytes": 30441,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/CountriesProvider-CUx9b8jG.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/CountriesProvider-CUx9b8jG.js",
+      "content_type": "text/javascript",
+      "bytes": 674,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/ErrorBoundary-DkBCN6sU.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/ErrorBoundary-DkBCN6sU.js",
+      "content_type": "text/javascript",
+      "bytes": 3148,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/global.module-CHxlb-go.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/global.module-CHxlb-go.js",
+      "content_type": "text/javascript",
+      "bytes": 1,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useEscapeKeypress-Z5HxHI6O.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useEscapeKeypress-Z5HxHI6O.js",
+      "content_type": "text/javascript",
+      "bytes": 296,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/constants-CSbNCwRn.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/constants-CSbNCwRn.js",
+      "content_type": "text/javascript",
+      "bytes": 1703,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/compat.module-CNIsv6kH.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/compat.module-CNIsv6kH.js",
+      "content_type": "text/javascript",
+      "bytes": 10300,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/getIsEmailHintUser-DCfdxCGS.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/getIsEmailHintUser-DCfdxCGS.js",
+      "content_type": "text/javascript",
+      "bytes": 2796,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Button-DVDhNC0f.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Button-DVDhNC0f.js",
+      "content_type": "text/javascript",
+      "bytes": 5459,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/CompactLayoutContext-D1Kzhkzh.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/CompactLayoutContext-D1Kzhkzh.js",
+      "content_type": "text/javascript",
+      "bytes": 133,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/flow-C6qc4BtR.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/flow-C6qc4BtR.js",
+      "content_type": "text/javascript",
+      "bytes": 448,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/runtime-vrWOI9WY.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/runtime-vrWOI9WY.js",
+      "content_type": "text/javascript",
+      "bytes": 181368,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/UserCard-Deuz1i05.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/UserCard-Deuz1i05.js",
+      "content_type": "text/javascript",
+      "bytes": 1323,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Avatar-BiYeoyU7.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Avatar-BiYeoyU7.js",
+      "content_type": "text/javascript",
+      "bytes": 4583,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/account-BlU0l3EF.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/account-BlU0l3EF.js",
+      "content_type": "text/javascript",
+      "bytes": 1344,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/index-C8acDTww.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/index-C8acDTww.js",
+      "content_type": "text/javascript",
+      "bytes": 13653,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Link-C9HVjt1a.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Link-C9HVjt1a.js",
+      "content_type": "text/javascript",
+      "bytes": 2248,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useResizeObserver-BXiwN8l0.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useResizeObserver-BXiwN8l0.js",
+      "content_type": "text/javascript",
+      "bytes": 9782,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/avatar-C_9EyF3G.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/avatar-C_9EyF3G.js",
+      "content_type": "text/javascript",
+      "bytes": 4666,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/usePostMessage-btYRej20.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/usePostMessage-btYRej20.js",
+      "content_type": "text/javascript",
+      "bytes": 1053,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/CodeInput-Dy133x_q.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/CodeInput-Dy133x_q.js",
+      "content_type": "text/javascript",
+      "bytes": 4024,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useMessageSender-DNciTPjb.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useMessageSender-DNciTPjb.js",
+      "content_type": "text/javascript",
+      "bytes": 1789,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/jsxRuntime.module-D1TSJo7p.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/jsxRuntime.module-D1TSJo7p.js",
+      "content_type": "text/javascript",
+      "bytes": 435,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/notifier-DqqNt4wG.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/notifier-DqqNt4wG.js",
+      "content_type": "text/javascript",
+      "bytes": 46804,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useWebauthnConditionalUI-Sv1b9B55.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useWebauthnConditionalUI-Sv1b9B55.js",
+      "content_type": "text/javascript",
+      "bytes": 4697,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/index-uiU-ZNlz.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/index-uiU-ZNlz.js",
+      "content_type": "text/javascript",
+      "bytes": 4250,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/webauthn-json.browser-ponyfill-Cpljynqa.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/webauthn-json.browser-ponyfill-Cpljynqa.js",
+      "content_type": "text/javascript",
+      "bytes": 2481,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/_commonjsHelpers-CLPN-Npl.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/_commonjsHelpers-CLPN-Npl.js",
+      "content_type": "text/javascript",
+      "bytes": 791,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useIdentityTexts-BsCKhR1r.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useIdentityTexts-BsCKhR1r.js",
+      "content_type": "text/javascript",
+      "bytes": 44776,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/SpriteIcon-WFnU8X6i.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/SpriteIcon-WFnU8X6i.js",
+      "content_type": "text/javascript",
+      "bytes": 641,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/browser-BbtbMb2P.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/browser-BbtbMb2P.js",
+      "content_type": "text/javascript",
+      "bytes": 18033,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/inheritsLoose-BGGu9yWi.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/inheritsLoose-BGGu9yWi.js",
+      "content_type": "text/javascript",
+      "bytes": 224,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/index-DiYWUa65.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/index-DiYWUa65.js",
+      "content_type": "text/javascript",
+      "bytes": 1112,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/index-DwetzC_q.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/index-DwetzC_q.js",
+      "content_type": "text/javascript",
+      "bytes": 21057,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/url-Cnt7wubz.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/url-Cnt7wubz.js",
+      "content_type": "text/javascript",
+      "bytes": 8524,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/utils--64IB8sE.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/utils--64IB8sE.js",
+      "content_type": "text/javascript",
+      "bytes": 28606,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/checkout-61ObLa2H.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/checkout-61ObLa2H.js",
+      "content_type": "text/javascript",
+      "bytes": 259,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AnimatedShopLogo-kuhUkQSs.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AnimatedShopLogo-kuhUkQSs.js",
+      "content_type": "text/javascript",
+      "bytes": 713,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/ApiFetcher-BlmLw1qQ.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/ApiFetcher-BlmLw1qQ.js",
+      "content_type": "text/javascript",
+      "bytes": 1283,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/types-CuKNaOfn.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/types-CuKNaOfn.js",
+      "content_type": "text/javascript",
+      "bytes": 3568,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Notification-Dgpzxi97.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Notification-Dgpzxi97.js",
+      "content_type": "text/javascript",
+      "bytes": 1727,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/UIContextProvider-DYx6-_cP.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/UIContextProvider-DYx6-_cP.js",
+      "content_type": "text/javascript",
+      "bytes": 805,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Icon-SIcf5ZY6.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Icon-SIcf5ZY6.js",
+      "content_type": "text/javascript",
+      "bytes": 340,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/formatter-DCGlD6_b.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/formatter-DCGlD6_b.js",
+      "content_type": "text/javascript",
+      "bytes": 2382,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/use-isomorphic-layout-effect-lNqnY8sm.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/use-isomorphic-layout-effect-lNqnY8sm.js",
+      "content_type": "text/javascript",
+      "bytes": 1326,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Input-C2s3Uk1C.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Input-C2s3Uk1C.js",
+      "content_type": "text/javascript",
+      "bytes": 5995,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/FlagInput-Cs-8C0QY.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/FlagInput-Cs-8C0QY.js",
+      "content_type": "text/javascript",
+      "bytes": 1443,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Section-BlCDpVDe.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Section-BlCDpVDe.js",
+      "content_type": "text/javascript",
+      "bytes": 747,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/FormDescription-C40r7WmI.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/FormDescription-C40r7WmI.js",
+      "content_type": "text/javascript",
+      "bytes": 364,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/index-ogVLWx9T.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/index-ogVLWx9T.js",
+      "content_type": "text/javascript",
+      "bytes": 1853,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useComputedValue-IwkxqVqn.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useComputedValue-IwkxqVqn.js",
+      "content_type": "text/javascript",
+      "bytes": 8690,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Heading-I3ML3DYG.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Heading-I3ML3DYG.js",
+      "content_type": "text/javascript",
+      "bytes": 551,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Tooltip-BfPYKWTB.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Tooltip-BfPYKWTB.js",
+      "content_type": "text/javascript",
+      "bytes": 1162,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/index.module-DiUk0neu.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/index.module-DiUk0neu.js",
+      "content_type": "text/javascript",
+      "bytes": 2266,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AuthorizeOneClick-Bhxodqdj.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AuthorizeOneClick-Bhxodqdj.js",
+      "content_type": "text/javascript",
+      "bytes": 969,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/preload-helper-CgvsJPj0.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/preload-helper-CgvsJPj0.js",
+      "content_type": "text/javascript",
+      "bytes": 1228,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/identityLayout-B1B7m8CW.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/identityLayout-B1B7m8CW.js",
+      "content_type": "text/javascript",
+      "bytes": 3197,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/usePhoneNumberLib-CBtdwz1x.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/usePhoneNumberLib-CBtdwz1x.js",
+      "content_type": "text/javascript",
+      "bytes": 689,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Button-BEx-ESrd.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Button-BEx-ESrd.js",
+      "content_type": "text/javascript",
+      "bytes": 3182,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/shopPayAccessToken-Cglx4WX7.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/shopPayAccessToken-Cglx4WX7.js",
+      "content_type": "text/javascript",
+      "bytes": 253,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AutoSubmitForm-ovOxl0_d.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AutoSubmitForm-ovOxl0_d.js",
+      "content_type": "text/javascript",
+      "bytes": 436,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/DoubleSpinnerIcon-DtSautKp.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/DoubleSpinnerIcon-DtSautKp.js",
+      "content_type": "text/javascript",
+      "bytes": 1168,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/VisibilityTransition-7Wcpkd9I.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/VisibilityTransition-7Wcpkd9I.js",
+      "content_type": "text/javascript",
+      "bytes": 476,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useServerErrorMessage-C_GzeVWi.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/useServerErrorMessage-C_GzeVWi.js",
+      "content_type": "text/javascript",
+      "bytes": 349,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/EmailEllipsis-CYggjnIK.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/EmailEllipsis-CYggjnIK.js",
+      "content_type": "text/javascript",
+      "bytes": 711,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/FlexInlineStack-CYT4I2Id.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/FlexInlineStack-CYT4I2Id.js",
+      "content_type": "text/javascript",
+      "bytes": 407,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/detectEmojiSupport-Do3TFfJE.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/detectEmojiSupport-Do3TFfJE.js",
+      "content_type": "text/javascript",
+      "bytes": 486,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Authorize-rdyVSLzk.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Authorize-rdyVSLzk.js",
+      "content_type": "text/javascript",
+      "bytes": 12387,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/usePostMessageListener-BYppCAS9.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/usePostMessageListener-BYppCAS9.js",
+      "content_type": "text/javascript",
+      "bytes": 2199,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Errors-oogRD6Ac.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/Errors-oogRD6Ac.js",
+      "content_type": "text/javascript",
+      "bytes": 850,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AuthorizeConfirm-CUuAVtMA.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/AuthorizeConfirm-CUuAVtMA.js",
+      "content_type": "text/javascript",
+      "bytes": 2660,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/authorizeEvents-CJkr-ki4.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/authorizeEvents-CJkr-ki4.js",
+      "content_type": "text/javascript",
+      "bytes": 199,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://pay.shopify.com/pay/assets/sprite.svg",
+      "local_path": "heritage_export/assets/pay.shopify.com/pay/assets/sprite.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 23505,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/RumMetrics-BtJS90nG.js",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/pay/vite-pay/assets/RumMetrics-BtJS90nG.js",
+      "content_type": "text/javascript",
+      "bytes": 7099,
+      "captured_by": "browser"
+    },
+    {
+      "url": "https://shopify-assets.shopifycdn.com/shopifycloud/arrive-server/assets/countryschemas.en-9136d9fb2865ce06f06c4cab4b3bedb40163997762cbce0439ab4add344ac30c.json",
+      "local_path": "heritage_export/assets/shopify-assets.shopifycdn.com/shopifycloud/arrive-server/assets/countryschemas.en-9136d9fb2865ce06f06c4cab4b3bedb40163997762cbce0439ab4add344ac30c.json",
+      "content_type": "application/json",
+      "bytes": 245176,
+      "captured_by": "browser"
+    }
+  ]
+}

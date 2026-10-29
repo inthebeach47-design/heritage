@@ -1,0 +1,1 @@
+import{v as o}from"./164ad2e3.B1TfVO1E.js";const s=/\S+@\S+\.\S{2,}/;function a(s,a){if(!o(s))return a}function n(o,a){return s.test(o)?void 0:a}const t={xsmall:"_8ssCG",small:"zS4x6",medium:"PrlUn",large:"SsCEp",ShopPayLogo:"eEpXo",ShopLogo:"PJvCw",inline:"aTkbO"};export{n as a,t as s,a as v};

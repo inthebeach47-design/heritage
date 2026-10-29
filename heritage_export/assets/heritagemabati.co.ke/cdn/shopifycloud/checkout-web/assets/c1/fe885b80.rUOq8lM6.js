@@ -1,0 +1,1 @@
+import{u as o}from"./2c1ab0fe.DrRCn3HG.js";import{e}from"./5587f402.BLOv5NpY.js";import{u as r}from"./164ad2e3.B1TfVO1E.js";function s(){const{shop:{id:s}}=e(),t=r();return o(()=>Boolean(t.value.get(s)?.length))}export{s as u};

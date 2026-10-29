@@ -1,0 +1,1 @@
+function t(o,e){return(t=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,o){return t.__proto__=o,t})(o,e)}function o(o,e){o.prototype=Object.create(e.prototype),o.prototype.constructor=o,t(o,e)}export{o as _};

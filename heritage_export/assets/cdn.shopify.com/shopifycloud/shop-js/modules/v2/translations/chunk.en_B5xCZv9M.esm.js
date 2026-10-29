@@ -1,0 +1,2 @@
+var t="Claim with {shop}",o="Continue with {shop}",i="Notify me with {shop}",h="Save with {shop}",a="or",e="Will automatically apply at checkout",u="Discount saved",n={claimWithShopButton:t,continueWithShopButton:o,notifyWithShopButton:i,saveWithShopButton:h,or:"or",discountSavedSubText:e,discountSavedText:u};export{t as claimWithShopButton,o as continueWithShopButton,n as default,e as discountSavedSubText,u as discountSavedText,i as notifyWithShopButton,a as or,h as saveWithShopButton};
+//# sourceMappingURL=chunk.en_B5xCZv9M.esm.js.map

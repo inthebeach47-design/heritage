@@ -1,0 +1,1 @@
+var e=(e=>(e.Interest="interest",e.SplitPay="split_pay",e.ZeroPercent="zero_percent",e))(e||{}),t=(e=>(e.CheckoutOne="checkout_one",e.Classic="classic",e.PaymentRequest="payment_request",e.ShopPayExternal="shop_pay_external",e))(t||{});export{e as A,t as C};

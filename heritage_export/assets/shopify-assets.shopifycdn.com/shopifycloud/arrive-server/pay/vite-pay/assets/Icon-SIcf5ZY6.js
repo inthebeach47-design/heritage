@@ -1,0 +1,1 @@
+import{u as l}from"./jsxRuntime.module-D1TSJo7p.js";function a({fill:a="currentColor",size:e=12,svg:i,...r}){const o=null!=r["aria-label"]&&""!==r["aria-label"]||null!=r["aria-labelledby"]&&""!==r["aria-labelledby"]||"img"===r.role;return l(i,{...o?void 0:{"aria-hidden":!0,focusable:"false"},...r,width:e,height:e,fill:a})}export{a as I};

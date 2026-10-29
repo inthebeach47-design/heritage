@@ -1,0 +1,1 @@
+import"./compat.module-CNIsv6kH.js";import{d as e,c as t}from"./index-C8acDTww.js";import{u as r}from"./jsxRuntime.module-D1TSJo7p.js";import{x as n}from"./browser-D8mMhnhM.js";function o({children:o,alignment:m="center"}){const s=n(e);return o?r("div",{className:t("center"===m?"text-center":"text-left",s&&"text-grayscale-d70"),children:o}):null}export{o as F};

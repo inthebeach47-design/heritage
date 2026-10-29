@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.py[cod]
+heritage_export_backup_*/
+
