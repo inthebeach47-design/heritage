@@ -1073,6 +1073,7 @@ if __name__ == "__main__":
 
 def write_deploy_files() -> None:
     vercel_config = {
+        "$schema": "https://openapi.vercel.sh/vercel.json",
         "cleanUrls": True,
         "trailingSlash": False,
         "headers": [
@@ -1081,10 +1082,9 @@ def write_deploy_files() -> None:
                 "headers": [{"key": "Cache-Control", "value": "public, max-age=31536000, immutable"}],
             }
         ],
-        "rewrites": [{"source": "/(.*)", "destination": "/index.html"}],
     }
     write_text(OUTPUT_DIR / "vercel.json", json.dumps(vercel_config, indent=2))
-    write_text(OUTPUT_DIR / "_redirects", "/* /index.html 200\n")
+    write_text(OUTPUT_DIR / "_redirects", "")
     write_text(
         OUTPUT_DIR / "README.md",
         """# Heritage Mabati Static Export
