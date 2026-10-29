@@ -1074,6 +1074,7 @@ if __name__ == "__main__":
 def write_deploy_files() -> None:
     vercel_config = {
         "$schema": "https://openapi.vercel.sh/vercel.json",
+        "framework": None,
         "cleanUrls": True,
         "trailingSlash": False,
         "headers": [
