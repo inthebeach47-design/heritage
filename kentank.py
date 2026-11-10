@@ -280,6 +280,15 @@ body { padding-bottom:88px !important; }
 
         ensure_google_tag(soup)
 
+        # Keep WhatsApp handoffs out of the storefront's same-tab navigation.
+        # Shopify's page transitions can otherwise intercept the wa.me redirect
+        # and leave visitors on the previous page instead of opening chat.
+        for whatsapp_link in soup.select('a[href*="wa.me/"], a[href*="api.whatsapp.com/"]'):
+            whatsapp_link["target"] = "_blank"
+            rel_values = set(whatsapp_link.get("rel", []))
+            rel_values.update(("noopener", "noreferrer"))
+            whatsapp_link["rel"] = sorted(rel_values)
+
         for previous in soup.select(".hm-easy-order, .hm-order-dock, #hm-order-panel-styles"):
             previous.decompose()
 
@@ -294,6 +303,8 @@ body { padding-bottom:88px !important; }
                 title = title.split("|")[0].strip()
                 panel = soup.new_tag("div", attrs={"class": "hm-easy-order"})
                 wa = soup.new_tag("a", href=f"https://wa.me/{whatsapp_number}?text={quote('Hello, I would like to order ' + title + '. Please help me with price, colour, length, quantity and delivery.')}" )
+                wa["target"] = "_blank"
+                wa["rel"] = ["noopener", "noreferrer"]
                 wa["class"] = "hm-easy-order__wa"
                 wa.string = "Order on WhatsApp"
                 call = soup.new_tag("a", href=f"tel:{phone_number}")
@@ -309,6 +320,8 @@ body { padding-bottom:88px !important; }
             old_float.decompose()
         dock = soup.new_tag("nav", attrs={"class": "hm-order-dock", "aria-label": "Order by phone or WhatsApp"})
         dock_wa = soup.new_tag("a", href=f"https://wa.me/{whatsapp_number}?text={quote('Hello Heritage Mabati, I need help with an order.')}" )
+        dock_wa["target"] = "_blank"
+        dock_wa["rel"] = ["noopener", "noreferrer"]
         dock_wa["class"] = "hm-order-dock__wa"
         dock_wa.string = "WhatsApp: 0751 206 042"
         dock_call = soup.new_tag("a", href=f"tel:{phone_number}")
