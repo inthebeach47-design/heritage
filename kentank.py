@@ -278,6 +278,8 @@ body { padding-bottom:88px !important; }
         except OSError:
             continue
 
+        ensure_google_tag(soup)
+
         for previous in soup.select(".hm-easy-order, .hm-order-dock, #hm-order-panel-styles"):
             previous.decompose()
 
@@ -945,6 +947,32 @@ def rewrite_html(html: str, page_url: str, output_path: Path, page_map: dict[str
             tag.string.replace_with(rewritten)
 
     return rewrite_site_phone_numbers(str(soup))
+
+
+def ensure_google_tag(soup: BeautifulSoup) -> None:
+    if soup.head is None:
+        raise ValueError("Cannot install the Google tag: HTML document has no <head> element.")
+
+    initialization = "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());"
+    for tag in soup.find_all("script"):
+        source = tag.get("src", "")
+        contents = tag.string or ""
+        if (
+            "googletagmanager.com/gtm.js" in source
+            or "googletagmanager.com/gtag/js" in source
+            or "window.dataLayer = window.dataLayer || [];" in contents
+        ):
+            tag.decompose()
+
+    loader = soup.new_tag(
+        "script",
+        src="https://www.googletagmanager.com/gtm.js?id=GTM-M64VJKQM",
+    )
+    loader["async"] = ""
+    setup = soup.new_tag("script")
+    setup.string = initialization
+    soup.head.insert(0, setup)
+    soup.head.insert(0, loader)
 
 
 def crawl_site(
