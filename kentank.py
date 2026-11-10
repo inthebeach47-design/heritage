@@ -280,14 +280,18 @@ body { padding-bottom:88px !important; }
 
         ensure_google_tag(soup)
 
-        # Keep WhatsApp handoffs out of the storefront's same-tab navigation.
-        # Shopify's page transitions can otherwise intercept the wa.me redirect
-        # and leave visitors on the previous page instead of opening chat.
+        # Use WhatsApp's send endpoint and same-tab navigation. Popup blockers in
+        # mobile and embedded browsers can silently discard target="_blank" links.
         for whatsapp_link in soup.select('a[href*="wa.me/"], a[href*="api.whatsapp.com/"]'):
-            whatsapp_link["target"] = "_blank"
-            rel_values = set(whatsapp_link.get("rel", []))
-            rel_values.update(("noopener", "noreferrer"))
-            whatsapp_link["rel"] = sorted(rel_values)
+            parsed_link = urlparse(whatsapp_link["href"])
+            phone = parsed_link.path.strip("/").split("/")[-1]
+            if parsed_link.netloc == "api.whatsapp.com":
+                phone = dict(parse_qsl(parsed_link.query)).get("phone", phone)
+            params = dict(parse_qsl(parsed_link.query))
+            params.pop("phone", None)
+            params["phone"] = phone
+            whatsapp_link["href"] = "https://api.whatsapp.com/send?" + urlencode(params)
+            whatsapp_link.attrs.pop("target", None)
 
         for previous in soup.select(".hm-easy-order, .hm-order-dock, #hm-order-panel-styles"):
             previous.decompose()
@@ -302,9 +306,7 @@ body { padding-bottom:88px !important; }
                 title = product_title.get("content", "roofing sheets") if product_title else "roofing sheets"
                 title = title.split("|")[0].strip()
                 panel = soup.new_tag("div", attrs={"class": "hm-easy-order"})
-                wa = soup.new_tag("a", href=f"https://wa.me/{whatsapp_number}?text={quote('Hello, I would like to order ' + title + '. Please help me with price, colour, length, quantity and delivery.')}" )
-                wa["target"] = "_blank"
-                wa["rel"] = ["noopener", "noreferrer"]
+                wa = soup.new_tag("a", href=f"https://api.whatsapp.com/send?phone={whatsapp_number}&text={quote('Hello, I would like to order ' + title + '. Please help me with price, colour, length, quantity and delivery.')}" )
                 wa["class"] = "hm-easy-order__wa"
                 wa.string = "Order on WhatsApp"
                 call = soup.new_tag("a", href=f"tel:{phone_number}")
@@ -319,9 +321,7 @@ body { padding-bottom:88px !important; }
         if old_float:
             old_float.decompose()
         dock = soup.new_tag("nav", attrs={"class": "hm-order-dock", "aria-label": "Order by phone or WhatsApp"})
-        dock_wa = soup.new_tag("a", href=f"https://wa.me/{whatsapp_number}?text={quote('Hello Heritage Mabati, I need help with an order.')}" )
-        dock_wa["target"] = "_blank"
-        dock_wa["rel"] = ["noopener", "noreferrer"]
+        dock_wa = soup.new_tag("a", href=f"https://api.whatsapp.com/send?phone={whatsapp_number}&text={quote('Hello Heritage Mabati, I need help with an order.')}" )
         dock_wa["class"] = "hm-order-dock__wa"
         dock_wa.string = "WhatsApp: 0751 206 042"
         dock_call = soup.new_tag("a", href=f"tel:{phone_number}")
@@ -375,7 +375,7 @@ body { padding-bottom:88px !important; }
                 view = soup.new_tag("a", href=f"products/{handle}/index.html")
                 view["class"] = "hm-roof-card__view"
                 view.string = "Details"
-                order = soup.new_tag("a", href=f"https://wa.me/{whatsapp_number}?text={quote('Hello, I would like to order ' + display_name + '. Please help me with price, colour, length, quantity and delivery.')}", attrs={"target": "_blank", "rel": "noopener"})
+                order = soup.new_tag("a", href=f"https://api.whatsapp.com/send?phone={whatsapp_number}&text={quote('Hello, I would like to order ' + display_name + '. Please help me with price, colour, length, quantity and delivery.')}")
                 order["class"] = "hm-roof-card__order"
                 order.string = "WhatsApp Order"
                 actions.append(view)
