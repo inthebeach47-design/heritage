@@ -3621,5 +3621,30 @@ window.addEventListener('resize', function() {
   };
 </script>
 </div><script data-source-attribution="shopify.standard_actions" src="../../assets/cdn.shopify.com/storefront/standard-actions.js" type="module"></script>
-<nav aria-label="Order by phone or WhatsApp" class="hm-order-dock"><a class="hm-order-dock__wa" href="https://api.whatsapp.com/send?phone=254751206042&text=Hello%20Heritage%20Mabati%2C%20I%20need%20help%20with%20an%20order." rel="noopener noreferrer">WhatsApp: 0751 206 042</a><a class="hm-order-dock__call" href="tel:+254751206042">Call: 0751 206 042</a></nav></body>
+<nav aria-label="Order by phone or WhatsApp" class="hm-order-dock"><a class="hm-order-dock__wa" href="https://api.whatsapp.com/send?phone=254751206042&text=Hello%20Heritage%20Mabati%2C%20I%20need%20help%20with%20an%20order." rel="noopener noreferrer">WhatsApp: 0751 206 042</a><a class="hm-order-dock__call" href="tel:+254751206042">Call: 0751 206 042</a></nav><script id="heritage-contact-actions">
+(function () {
+  document.addEventListener('click', function (event) {
+    var link = event.target instanceof Element ? event.target.closest('a[href]') : null;
+    if (!link) return;
+
+    if (link.matches('a[href*="api.whatsapp.com/send"], a[href*="wa.me/"]')) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      var whatsappTab = window.open(link.href, '_blank');
+      if (whatsappTab) {
+        whatsappTab.opener = null;
+      } else {
+        window.location.assign(link.href);
+      }
+      return;
+    }
+
+    if (link.matches('.hm-order-dock__call, a[href^="tel:"]')) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      window.location.href = link.href;
+    }
+  }, true);
+})();
+</script></body>
 </html>

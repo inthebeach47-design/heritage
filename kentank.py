@@ -280,6 +280,41 @@ body { padding-bottom:88px !important; }
 
         ensure_google_tag(soup)
 
+        # Route contact links from the actual tap. Some embedded/mobile browsers
+        # suppress plain external anchors; try a user-initiated new context and
+        # fall back to same-tab navigation when popups are blocked.
+        for old_handler in soup.select("#heritage-contact-actions"):
+            old_handler.decompose()
+        contact_actions = soup.new_tag("script", id="heritage-contact-actions")
+        contact_actions.string = """
+(function () {
+  document.addEventListener('click', function (event) {
+    var link = event.target instanceof Element ? event.target.closest('a[href]') : null;
+    if (!link) return;
+
+    if (link.matches('a[href*="api.whatsapp.com/send"], a[href*="wa.me/"]')) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      var whatsappTab = window.open(link.href, '_blank');
+      if (whatsappTab) {
+        whatsappTab.opener = null;
+      } else {
+        window.location.assign(link.href);
+      }
+      return;
+    }
+
+    if (link.matches('.hm-order-dock__call, a[href^="tel:"]')) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      window.location.href = link.href;
+    }
+  }, true);
+})();
+"""
+        if soup.body:
+            soup.body.append(contact_actions)
+
         # Use WhatsApp's send endpoint and same-tab navigation. Popup blockers in
         # mobile and embedded browsers can silently discard target="_blank" links.
         for whatsapp_link in soup.select('a[href*="wa.me/"], a[href*="api.whatsapp.com/"]'):
